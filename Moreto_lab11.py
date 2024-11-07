@@ -20,7 +20,8 @@ while True:
         break
     else:
         print("Error!")
-        
+
+#computation of grades  
 for grade in grades:
     total_grade =+ grade
     average_grade = total_grade / len(grades)
